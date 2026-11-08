@@ -1,0 +1,28 @@
+{
+	"id": "e09bddfa-6c94-405f-b725-aa69a0616559",
+	"name": "QA",
+	"values": [
+		{
+			"key": "BaseURL",
+			"value": "https://petstore.swagger.io/v2",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Add/Put",
+			"value": "/pet",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Get/Delete",
+			"value": "/9223372036854775807",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-11-08T01:49:22.001Z",
+	"_postman_exported_using": "Postman/12.35.5-261106-0231"
+}
